@@ -1,0 +1,24 @@
+{
+    "epoch": 1,
+    "model": "blip2",
+    "backbone": "pretrain_vitL",
+    "batch_size": 32,
+    "num_workers": 16,
+    "img_size": 224,
+    "blip_size": "large",
+    "text_encoder": "blip",
+    "weight_decay": 5e-5,
+    "random_seed": 1000,
+    "experiment_dir": "experiments",
+    "init_lr": 1e-6,
+    "dataset": "fashionIQ",
+    "wandb_project_name": "QuRe",
+    "wandb_account_name": "-",
+    "device_idx": "1",
+    "experiment_description": "debug",
+    "mode": "eval",
+    "negative": "random",
+    "use_temp": true,
+    "pretrained_path" : "[Path to the pretrained model]"
+}
+
