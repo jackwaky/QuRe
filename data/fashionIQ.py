@@ -19,10 +19,8 @@ from torch.nn import functional as F
 import PIL
 import PIL.Image
 
-_DEFAULT_FASHION_IQ_DATASET_ROOT = '-'
 
-
-base_path = Path(_DEFAULT_FASHION_IQ_DATASET_ROOT)
+base_path = '-'
 target_ratio = 1.25
 
 class FashionIQDataset(Dataset):

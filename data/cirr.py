@@ -14,8 +14,7 @@ import PIL
 import PIL.Image
 PIL.Image.MAX_IMAGE_PIXELS = None
 
-_DEFAULT_FASHION_IQ_DATASET_ROOT = '-'
-base_path = _DEFAULT_FASHION_IQ_DATASET_ROOT
+base_path = '-'
 target_ratio = 1.25
 
 class CIRRDataset(Dataset):
