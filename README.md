@@ -75,5 +75,5 @@ You can download them from the [link](https://drive.google.com/drive/folders/1tE
 
 
 ## Acknowledgment
-This repository is built upon the codebase of [CoSMo](https://github.com/postBG/CosMo.pytorch).
+This code is built on top of the [CoSMo](https://github.com/postBG/CosMo.pytorch) and utilizes [LAVIS](https://github.com/salesforce/LAVIS).
 We thank the authors for their valuable contribution.
