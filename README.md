@@ -20,7 +20,7 @@ Before running the code, please download the following datasets:
 - [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq)
 - [CIRR](https://github.com/Cuberick-Orion/CIRR)
 - [CIRCO](https://github.com/miccunifi/CIRCO)
-- **HP-FashionIQ** *(will be added soon)*
+- [HP-FashionIQ](./HP-FashionIQ)
 
 Once downloaded, update the `base_path` variable in each corresponding file with the local path to the dataset:
 
