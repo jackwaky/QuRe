@@ -123,7 +123,8 @@ def main():
 
     # Evaluation
     # Extract Preference Ratio
-    evaluate_preference_ratio(model_list_1, model_list_2, preferred_list)
+    preference_ratio = evaluate_preference_ratio(model_list_1, model_list_2, preferred_list)
+    print(f"Preference Ratio : {preference_ratio}")
 
 if __name__ == "__main__":
     main()
