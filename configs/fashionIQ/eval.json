@@ -1,5 +1,6 @@
 {
     "epoch": 1,
+    "model_name": "qure",
     "model": "blip2",
     "backbone": "pretrain_vitL",
     "batch_size": 32,

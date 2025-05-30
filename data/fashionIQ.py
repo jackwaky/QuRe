@@ -421,7 +421,7 @@ class FashionIQUserSurveyDataset(AbstractBaseFashionIQDataset):
 
     """
 
-    def __init__(self, root_path=_DEFAULT_FASHION_IQ_DATASET_ROOT, clothing_type='dress', split='train',
+    def __init__(self, root_path=base_path, clothing_type='dress', split='train',
                  img_transform=None, id_transform=None, config=None):
         super().__init__(root_path, split, img_transform)
         self.root_path = root_path
@@ -470,7 +470,7 @@ class FashionIQUserSurveyTestSampleDataset(AbstractBaseFashionIQDataset):
     indexing returns target samples and their unique ID
     """
 
-    def __init__(self, root_path=_DEFAULT_FASHION_IQ_DATASET_ROOT, clothing_type='dress', split='val',
+    def __init__(self, root_path=base_path, clothing_type='dress', split='val',
                  img_transform=None, config=None):
         super().__init__(root_path, split, img_transform)
         self.root_path = root_path
