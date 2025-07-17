@@ -2,7 +2,7 @@
 # QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval [ICML 2025]
 
 Official implementation of **QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval** (*ICML 2025*).  
-[[Paper Link]](https://openreview.net/pdf?id=zUk00sasl6)
+[[Paper Link]](https://arxiv.org/abs/2507.12416)
 
 
 ## Python Environment
