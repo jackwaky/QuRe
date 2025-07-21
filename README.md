@@ -77,3 +77,13 @@ You can download them from the [link](https://drive.google.com/drive/folders/1tE
 ## Acknowledgment
 This code is built on top of the [CoSMo](https://github.com/postBG/CosMo.pytorch) and utilizes [LAVIS](https://github.com/salesforce/LAVIS).
 We thank the authors for their valuable contribution.
+
+## Citation
+
+```bibtex
+@inproceedings{kwakqure,
+  title={QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval},
+  author={Kwak, Jaehyun and Inhar, Ramahdani Muhammad Izaaz and Yun, Se-Young and Lee, Sung-Ju},
+  booktitle={Forty-second International Conference on Machine Learning}
+}
+```
