@@ -17,8 +17,8 @@ The following commands set up a local Anaconda environment and install the requi
 ## Prepare Datasets 
 Before running the code, please download the following datasets:
 
-- [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq)
-- [CIRR](https://github.com/Cuberick-Orion/CIRR)
+- [FashionIQ](https://drive.google.com/drive/folders/17WgyAkiTb21y8BdTNJptyfEm4wjk4FPx?usp=drive_link)
+- [CIRR](https://drive.google.com/drive/folders/17WgyAkiTb21y8BdTNJptyfEm4wjk4FPx?usp=drive_link)
 - [CIRCO](https://github.com/miccunifi/CIRCO)
 - [HP-FashionIQ](https://github.com/jackwaky/QuRe/tree/main/HP_FashionIQ)
 
